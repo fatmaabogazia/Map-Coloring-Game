@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\bin\Debug\Coloring_Map_AI.exe.config
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\bin\Debug\Coloring_Map_AI.exe
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\bin\Debug\Coloring_Map_AI.pdb
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.Properties.Resources.resources
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.exe
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.pdb
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.Map_Coloring.resources
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\Dell\source\repos\Coloring_Map_AI\Coloring_Map_AI\obj\Debug\Coloring_Map_AI.csproj.CopyComplete
